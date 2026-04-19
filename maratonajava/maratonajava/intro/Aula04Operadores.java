@@ -1,4 +1,4 @@
-package felix.lucas.maratonajava.introducao;
+package maratonajava.intro;
 
 public class Aula04Operadores {
     public static void main(String[] args) {
