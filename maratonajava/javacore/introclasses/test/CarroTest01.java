@@ -2,8 +2,6 @@ package maratonajava.javacore.introclasses.test;
 
 import maratonajava.javacore.introclasses.dominio.Carro;
 
-import java.sql.SQLOutput;
-
 public class CarroTest01 {
     //Exercicio Crie uma classe carro com atributos: nome, modelo, ano
     //Em seguida, crie dois objetos distintos e imprima seus valores
