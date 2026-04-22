@@ -1,6 +1,6 @@
-package maratonajava.javacore.introclasses.test;
+package maratonajava.javacore.Aintroclasses.test;
 
-import maratonajava.javacore.introclasses.dominio.Carro;
+import maratonajava.javacore.Aintroclasses.dominio.Carro;
 
 public class CarroTest01 {
     //Exercicio Crie uma classe carro com atributos: nome, modelo, ano
